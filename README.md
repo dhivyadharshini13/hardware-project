@@ -1,4 +1,4 @@
-# hardware-project
+# Hardware-project
 An Arduino-based assistive technology project that helps visually impaired users read text through a refreshable Braille display and smart vibration glove.
 ## Project Overview
 This project is an Arduino-based assistive technology designed to help visually impaired users read text through tactile Braille output. The system converts voice input into Braille patterns using a refreshable Braille display and a smart vibration glove.
